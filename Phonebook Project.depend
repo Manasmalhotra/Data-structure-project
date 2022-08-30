@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1661848313 source:c:\users\dell\desktop\phonebook project\trienode.cpp
+	"TrieNode.h"
+	<bits/stdc++.h>
+
+1661847307 c:\users\dell\desktop\phonebook project\trienode.h
+	<bits/stdc++.h>
+
+1661889056 source:c:\users\dell\desktop\phonebook project\phonebook.cpp
+	"TrieNode.h"
+	<bits/stdc++.h>
+
